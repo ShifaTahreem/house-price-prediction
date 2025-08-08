@@ -118,3 +118,5 @@ Clicks “Predict”
 Output: Predicted Price: ₹215,823.56
 
 Sample outputs:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dd8eec15-aefc-4d1e-b591-d06a96b4c83e" />
